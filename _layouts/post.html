@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<article class="prose">
+  <p class="eyebrow"><a href="{{ '/' | relative_url }}">← berlimioz.fr</a></p>
+  <header class="post-head">
+    <span class="date">{{ page.date | date: "%d.%m.%Y" }}{% if page.categories.first %} · {{ page.categories.first }}{% endif %}</span>
+    <h1>{{ page.title }}</h1>
+  </header>
+  {{ content }}
+  <p class="post-foot"><a href="{{ '/#journal' | relative_url }}">← Toutes les entrées du journal</a></p>
+</article>

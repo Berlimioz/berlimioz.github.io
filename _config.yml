@@ -1,0 +1,15 @@
+title: Chloé Roger
+description: >-
+  Développeuse web fullstack senior (Ruby/Rails) — journal d'apprentissage
+  de l'ingénierie LLM : self-hosting, RAG, mise en production.
+lang: fr
+url: "https://berlimioz.fr"
+author: Chloé Roger
+
+github_username: Berlimioz
+linkedin_username: chloé-roger-989b4619
+
+permalink: /journal/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
