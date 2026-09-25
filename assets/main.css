@@ -252,3 +252,5 @@ footer.site {
 }
 footer.site a { color: var(--muted); }
 footer.site a:hover { color: var(--ruby); }
+
+.quotes { display: flex; flex-direction: column; gap: 28px; }
