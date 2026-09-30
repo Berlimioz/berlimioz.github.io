@@ -15,7 +15,8 @@ paiement** : des systèmes critiques où un bug se compte en euros, dans un
 cadre réglementé (DSP2).
 
 Avant cela : dix ans de développement web fullstack, du e-commerce (Solidus)
-aux applications métier. Côté open source : moteur de rendu Markdown
+aux applications métier — dont des outils de vente de photos scolaires
+en ligne, construits de bout en bout. Côté open source : moteur de rendu Markdown
 (`marksila`), gestion d'uploads d'images volumineux (`gigantic`),
 Arctic Code Vault Contributor.
 
