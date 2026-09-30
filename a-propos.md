@@ -4,7 +4,7 @@ title: À propos
 permalink: /a-propos/
 ---
 
-Je suis **Chloé Roger**, développeuse web fullstack senior basée à Paris.
+Je suis **Chloé Roger**, développeuse web fullstack senior basée à Cormeilles-en-Parisis (Val-d'Oise).
 Je code professionnellement depuis 2010, principalement en **Ruby / Ruby on Rails**.
 
 ## Parcours
