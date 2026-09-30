@@ -15,8 +15,8 @@ paiement** : des systèmes critiques où un bug se compte en euros, dans un
 cadre réglementé (DSP2).
 
 Avant cela : dix ans de développement web fullstack, du e-commerce (Solidus)
-aux applications métier. Côté open source : contributions e-commerce
-(`open_solidus_cloudinary`), moteur de rendu Markdown (`marksila`),
+aux applications métier. Côté open source : moteur de rendu Markdown
+(`marksila`), gestion d'uploads d'images volumineux (`gigantic`),
 Arctic Code Vault Contributor.
 
 ## Aujourd'hui : l'ingénierie LLM
